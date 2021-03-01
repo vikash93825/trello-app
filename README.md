@@ -1,6 +1,6 @@
 # Trello-Task app
 
-### A web application for users to manage thier tasks
+### A web application for users to manage their tasks
 
 ### Dashboard Page
 ![Screenshot from 2021-03-01 16-48-13](https://user-images.githubusercontent.com/61466065/109490621-7e7dbd80-7aae-11eb-8a2f-51abb2e4087e.png)
